@@ -1,0 +1,10 @@
+com\spring\publishing\BookPublishing\repositories\BookPublisherRepository.class
+com\spring\publishing\BookPublishing\contractors\BookPublishers.class
+com\spring\publishing\BookPublishing\rowmappers\package-info.class
+com\spring\publishing\BookPublishing\models\Book.class
+com\spring\publishing\BookPublishing\controllers\BookPublisherController.class
+com\spring\publishing\BookPublishing\rowmappers\BookRowMapper.class
+com\spring\publishing\BookPublishing\rowmappers\PublisherRowMapper.class
+com\spring\publishing\BookPublishing\BookPublishingApplication.class
+com\spring\publishing\BookPublishing\DAOcomponents\BookPublisherDAO.class
+com\spring\publishing\BookPublishing\models\Publisher.class
